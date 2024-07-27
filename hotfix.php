@@ -1,2 +1,3 @@
 started
 continue
+ended
